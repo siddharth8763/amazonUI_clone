@@ -1,4 +1,4 @@
-# amazonUI_clone
+# amazonUI_clone created using react (don't use it to buy 😜)
 
 # Getting Started with Create React App
 
